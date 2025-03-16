@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/vasaud880/graden/internal/domain"
+	"github.com/vasaud880/graden/pkg/domain"
 )
 
 var (
